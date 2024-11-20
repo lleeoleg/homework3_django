@@ -1,0 +1,20 @@
+.form-signin {
+    width: 600px;
+    margin-top: 200px;
+}
+body {
+    display: flex;
+    justify-content: center;
+}
+.mybuttons {
+    width: 70px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: #007bff;
+}
+.mybuttons:hover {
+    background-color: #024ea0;
+    transition: 0.3s;
+}
